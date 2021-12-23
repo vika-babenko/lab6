@@ -9,8 +9,8 @@ struct head_list *next;
 ktime_t time;
 };
 
-MODULE_AUTHOR("Alex Gryshyn IV-91");
-MODULE_DESCRIPTION("Lab5");
+MODULE_AUTHOR("Vika Babenko IV-92");
+MODULE_DESCRIPTION("Lab6");
 MODULE_LICENSE("Dual BSD/GPL");
 
 static struct head_list *head;
