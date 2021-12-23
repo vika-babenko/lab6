@@ -7,8 +7,8 @@ Lab 5 Виконав: студент групи ІВ-92, Бабенко Викт
 
 ### встановлення модуля hello ###
 
-![Image alt](https://github.com/Dima2057/AK_Lab6/blob/master/Screenshot_1.png)
+![Image alt](https://github.com/vika-babenko/lab6/blob/main/Screenshot_1.png)
 
 ### видалення модуля hello ###
 
-![Image alt](https://github.com/Dima2057/AK_Lab6/blob/master/Screenshot_2.png)
+![Image alt](https://github.com/vika-babenko/lab6/blob/main/Screenshot_2.png)
